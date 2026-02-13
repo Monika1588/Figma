@@ -1,5 +1,7 @@
 .categories {
-    margin: 32px auto 14px  
+    margin: 32px auto 14px;
+    font-family: 'Kufam', sans-serif;
+
 }
 
 .cats-row {
@@ -19,6 +21,7 @@
     padding: 10px;
     background: transparent;
     border-radius: 10px
+    
 }
 
 .cat-item img {
@@ -33,11 +36,14 @@
 .cat-item span {
     margin-top: 8px;
     font-weight: 600;
-    font-size: 26px
+    font-size: 26px;
+    font-weight: 500;
 }
 
 .center {
     text-align: center;
+    font-family: 'Kufam', sans-serif;
+    font-weight: 500;
 }
 @media (max-width: 600px) {
     .cats-row {

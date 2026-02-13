@@ -11,9 +11,21 @@ function WhyChooseUs(){
 
         <div className="why-text">
           <h3>Why Choose Us</h3>
-          <p>we understand that pets are more than just animals; they are cherished members of your family. Our mission is to provide you with the highest quality products that ensure your pets lead healthy, happy, and fulfilling lives. From nutritious food and cozy beds to engaging toys and essential grooming supplies, we have everything you need to pamper your furry friends.</p>
-          <p>we understand that pets are more than just animals; they are cherished members of your family. Our mission is to provide you with the highest quality products that ensure your pets lead healthy, happy, and fulfilling lives. From nutritious food and cozy beds to engaging toys and essential grooming supplies, we have everything you need to pamper your furry friends.</p>
-          <p>we understand that pets are more than just animals; they are cherished members of your family. we have everything you need to pamper your furry friends.</p>
+          <p> We Understand That Pets Are More Than Just Animals; They Are Cherished Members
+            Of Your Family. Our Mission Is To Provide You With The Highest Quality Products That
+            Ensure Your Pets Lead Healthy, Happy, And Fulfilling Lives. From Nutritious Food And
+            Cozy Beds To Engaging Toys And Essential Grooming Supplies, We Have Everything
+            You Need To Pamper Your Furry Friends.</p>
+            <p> We Understand That Pets Are More Than Just Animals; They Are Cherished Members
+            Of Your Family. Our Mission Is To Provide You With The Highest Quality Products That
+            Ensure Your Pets Lead Healthy, Happy, And Fulfilling Lives. From Nutritious Food And
+            Cozy Beds To Engaging Toys And Essential Grooming Supplies, We Have Everything
+            You Need To Pamper Your Furry Friends.</p>
+          
+          <p>We Understand That Pets Are More Than Just Animals; They Are Cherished Members
+          Of Your Family. We Have Everything You Need To Pamper Your Furry Friends.
+
+</p>
 
         </div>
       </div>

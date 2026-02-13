@@ -8,13 +8,15 @@ const Footer = () => {
         <p className="footer-text"><b>Follow Us For More Information</b></p>
         <div className="socials">
           <a href="#"><img src="/icons/fb.svg" alt="Facebook" /></a>
+          <a href="#"><img src="/icons/ln.png" alt="LinkedIn" /></a>
           <a href="#"><img src="/icons/yt.svg" alt="YouTube" /></a>
+          <a href="#"><img src="/icons/insta.png" alt="Instagram" /></a>
           <a href="#"><img src="/icons/p.svg" alt="Pinterest" /></a>
         </div>
       </div>
 
       <div className="copyright">
-        All Rights Reserved By Rumi Akbar
+        All Right Reserved By Rumi Akbar
       </div>
     </footer>
   );

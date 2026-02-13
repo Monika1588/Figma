@@ -1,5 +1,7 @@
 .featured-section {
     padding: 40px 60px;
+    font-family: 'Kufam', sans-serif;
+
   }
   
   .featured-header {
@@ -7,21 +9,31 @@
     justify-content: space-between;
     align-items: center;
     margin-bottom: 24px;
+    font-family: 'Kufam', sans-serif;
+
   }
   
   .featured-header h2 {
     font-size: 22px;
+    font-family: 'Kufam', sans-serif;
+    font-weight: 500;
+
   }
   
   .see-all {
     font-size: 22px;
     cursor: pointer;
+    font-family: 'Kufam', sans-serif;
+    font-weight: 100;
+
   }
 
   .featured-grid {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 30px;
+    font-family: 'Kufam', sans-serif;
+
   }
 
   .product-card {
@@ -29,6 +41,8 @@
     height: 480px;
     overflow: hidden;
     box-shadow: 0 6px 18px rgba(0,0,0,0.15);
+    font-family: 'Kufam', sans-serif;
+
   }
 
   .base-img {
@@ -58,15 +72,19 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    font-family: 'Kufam', sans-serif;
+
   }
 
   .overlay-content button {
     background: rgba(255, 255, 255, 0.75);
     border: none;
-    padding: 10px 26px;
+    padding: 10px 46px;
     font-size: 14px;
-    border-radius: 4px;
     cursor: pointer;
+    font-family: 'Kufam', sans-serif;
+    font-size: 20px;
+
   }
 
 @media (max-width: 992px) {

@@ -4,6 +4,8 @@
     font-family: Arial, sans-serif;
     color: #000;
     text-align: center;
+    font-family: 'Kufam', sans-serif;
+
   }
   
   .footer-inner {
@@ -11,9 +13,10 @@
   }
   
   .footer-text {
-    font-size: 22px;
+    font-size: 24px;
     margin-bottom: 20px;
-    font-weight: 500;
+    font-weight: 300;
+    color:#060000;
   }
   
   .socials {
@@ -37,11 +40,11 @@
   }
   
   .copyright {
-    font-size: 16px;
+    font-size: 24px;
     color: #5c4b57;
     border-top: 3px solid #9b4d55;
     padding-top: 12px;
-    padding:30px;
+    padding:40px;
     width: 70%;         
     margin: 0 auto; 
   }

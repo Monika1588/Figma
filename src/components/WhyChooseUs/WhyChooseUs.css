@@ -1,6 +1,8 @@
 .why {
   margin: 50px;
   padding:0px;
+  font-family: 'Kufam', sans-serif;
+
 }
 
 .why-row {
@@ -19,15 +21,27 @@
 
 .why-text {
   flex: 1;
+  font-family: 'Kufam', sans-serif;
+  color: #333333;
+
 }
 
 .why-text h3 {
   margin: 0 0 8px 0; 
+  font-family: 'Kufam', sans-serif;
+  font-weight: 500;
+  color:black;
+  font-size: 26px;
+
 }
 
 .why-text p {
   line-height: 1.6;
-  margin-bottom: 8px
+  margin-bottom: 8px;
+  font-family: 'Kufam', sans-serif;
+  font-size: 18px;
+  margin-right: 30px;
+
 }
 
 @media (max-width:920px) {
