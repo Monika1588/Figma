@@ -46,3 +46,52 @@
     margin: 0 auto; 
   }
   
+
+@media (max-width: 768px) {
+  .site-footer {
+    padding: 30px 15px;
+  }
+
+  .footer-text {
+    font-size: 18px;
+  }
+
+  .socials {
+    gap: 14px;
+  }
+
+  .socials img {
+    width: 18px;
+    height: 18px;
+    padding: 7px;
+  }
+
+  .copyright {
+    width: 90%;
+    font-size: 14px;
+    padding: 20px;
+  }
+}
+
+@media (max-width: 480px) {
+  .footer-text {
+    font-size: 16px;
+  }
+
+  .socials {
+    gap: 12px;
+    flex-wrap: wrap;
+  }
+
+  .socials img {
+    width: 16px;
+    height: 16px;
+    padding: 6px;
+  }
+
+  .copyright {
+    width: 95%;
+    font-size: 13px;
+    padding: 15px;
+  }
+}

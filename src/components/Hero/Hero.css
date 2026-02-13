@@ -46,3 +46,55 @@
     color: brown;
    
   }
+
+@media (max-width: 992px) {
+  .hero-section {
+    margin: 25px;
+  }
+
+  .hero-bg {
+    height: 500px;
+  }
+
+  .hero-overlay {
+    padding: 80px 40px;
+    height: auto;
+  }
+
+  .hero-overlay h1 {
+    font-size: 42px;
+  }
+
+  .hero-overlay p {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 600px) {
+  .hero-section {
+    margin: 15px;
+  }
+
+  .hero-bg {
+    height: 420px;
+  }
+
+  .hero-overlay {
+    padding: 60px 20px;
+    height: auto;
+  }
+
+  .hero-overlay h1 {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+
+  .hero-overlay p {
+    font-size: 16px;
+  }
+
+  .btn {
+    padding: 10px 22px;
+    font-size: 14px;
+  }
+}

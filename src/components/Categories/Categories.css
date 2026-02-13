@@ -39,3 +39,25 @@
 .center {
     text-align: center;
 }
+@media (max-width: 600px) {
+    .cats-row {
+      gap: 30px;  
+    }
+  
+    .cat-item {
+      width: 80px;
+      height: auto;
+      padding: 6px;
+    }
+  
+    .cat-item img {
+      width: 75px;
+      height: 75px;
+    }
+  
+    .cat-item span {
+      font-size: 16px;
+      text-align: center;
+    }
+  }
+  
