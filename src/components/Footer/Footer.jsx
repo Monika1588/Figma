@@ -14,7 +14,7 @@ const Footer = () => {
       </div>
 
       <div className="copyright">
-        All Right Reserved By Rumi Akbar
+        All Rights Reserved By Rumi Akbar
       </div>
     </footer>
   );
